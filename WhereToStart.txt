@@ -1,0 +1,2 @@
+Varible Types, Python Dictonary
+https://www.tutorialspoint.com/python/python_variable_types.htm
