@@ -1,2 +1,4 @@
 Varible Types, Data Type Conversions
 https://www.tutorialspoint.com/python/python_variable_types.htm
+
+https://www.learnpython.org/
